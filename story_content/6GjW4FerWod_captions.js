@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.74.30180.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:05.504%0D%0ADiffusion%20and%20osmosis%20drive%20homeostasis%20and%20equilibrium%20for%20our%20cells.%0D%0A%0D%0A"}')
